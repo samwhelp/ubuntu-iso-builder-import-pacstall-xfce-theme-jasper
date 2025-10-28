@@ -45,5 +45,5 @@ only-combine:
 
 
 tips-next-step:
-	@echo '[Next Step]: cd ~/work/ubuntu-iso-builder-import-pacstall-xfce-theme-vimix/iso-profile'
+	@echo '[Next Step]: cd ~/work/ubuntu-iso-builder-import-pacstall-xfce-theme-jasper/iso-profile'
 .PHONY: tips-next-step
