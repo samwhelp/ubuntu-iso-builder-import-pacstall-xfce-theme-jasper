@@ -9,8 +9,6 @@
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-xfce-theme-jasper](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-xfce-theme-jasper) |
-| `=` |
-| [ubuntu-iso-builder-include-pacstall-xfce](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-xfce) |
 
 
 
@@ -129,3 +127,5 @@ make build
 | [Xubuntu / Note](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
 | [Ubuntu / Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Ubuntu / Note](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Ubuntu / ISO Builder / Template / Xfce](https://samwhelp.github.io/ubuntu-iso-builder-template/read/respin/xfce.html
+) |  |
